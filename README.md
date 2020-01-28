@@ -54,7 +54,7 @@ PUBG_Competition :
 Stock Prediction Project :  
 
 	You can see codes in 'https://github.com/ptaejoon/Stock_Prediction' (Currently in Private since the project is ongoing)
-	Duration : 2019.12~Present  
+	Duration : 12.2019~Present  
 	Designed GAN model to predict daily stock price by concatenate reference papers.  
 	Formulate data crawling system and build database to save 10 years news and stock data.  
 	Build and train GAN model using Keras.  
