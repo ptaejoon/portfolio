@@ -6,13 +6,18 @@ A+ :
 	프로그래밍 언어 ( Programming Language )  
 A :  
 	컴퓨터공학실험2 ( Computer Engineering Experiment 2 )  
+	데이터 마이닝 ( Data Mining )   
+	데이터베이스 ( Database )   
+	시스템 프로그래밍 ( System Programming )   
+	연구 프로젝트 ( Reaserch Project )   
 A- :  
 	이산구조 ( Discrete Mathmatics )  
 	컴퓨터 구조와 논리 ( Computer Structure and Logic )  
 	기초컴퓨터네트워크 ( Basic Computer Network )  
 	고급 소프트웨어 실습 ( Advanced Software Experiment )  
-	대화형 사용자 인터페이스 개론 ( Conversational User Interface )
-
+	대화형 사용자 인터페이스 개론 ( Conversational User Interface )   
+	임베디드 시스템 소프트웨어 ( Embedded System Software )   
+	
 BeginVegan_Project :  
 	
 	You can see codes in 'https://github.com/ptaejoon/SProject'  
