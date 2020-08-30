@@ -18,6 +18,12 @@ A- :
 	대화형 사용자 인터페이스 개론 ( Conversational User Interface )   
 	임베디드 시스템 소프트웨어 ( Embedded System Software )   
 	
+SKT_AI_Fellowship :   
+
+	You can see codes in 'https://github.com/cjsjyh/lol_highlight_ai'   
+	Duration : 5.2020-11.2020.   
+	Topic of the project is "Research and build auto generated highlight video for LOL."   
+
 BeginVegan_Project :  
 	
 	You can see codes in 'https://github.com/ptaejoon/SProject'  
